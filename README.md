@@ -54,6 +54,22 @@ MPT answers one question: **"What problem are you stuck on, and how do we move f
 
 ---
 
+### 关于英文版本 · A Note on the English Translation
+
+本仓库提供 v5 核心框架的完整英译及案例英译，但**第三版完整论著仅提供英文摘要，不提供全文翻译**。这不是一个暂时性的文档缺口，而是方法论自身的逻辑结论：
+
+MPT 框架自身可以简洁地证明：不严谨的翻译会导致 B1（认知框架）层信息发生严重丢失。英文版 v5 的篇首就不得不单独声明"'Material' 不是本体论唯物主义"——连框架名称中的一个词都需要额外注脚来纠偏，完整论著（28 万字符）的翻译风险可见一斑。在作者本人尚不具备足够的英文写作能力、且没有可靠的翻译团队支持的情况下，仓促的全书英译反而可能造成 B1 失真——这与 MPT 自身的诚实性规范相悖。
+
+因此，完整论著的英文版本暂且搁置。我们欢迎有双语哲学/方法论翻译能力的合作者通过 Issue 或 PR 联系。
+
+> This repository provides a full English translation of the v5 core framework and both case studies. However, **the full Third Edition treatise is provided as an English summary only — it will not receive a complete translation at this stage.** This is not a documentation gap; it is a methodological conclusion:
+>
+> MPT itself can demonstrate concisely that imprecise translation causes severe B1-layer (cognitive framework) information loss. The v5 English edition alone required a prefatory footnote disclaiming that "'Material' does not denote ontological materialism" — if even the name of the framework demands a corrective note, the risk of translating a 280,000-character treatise should be self-evident. In the author's own assessment, without the requisite English proficiency and a reliable translation team, a hasty full translation would more likely distort B1 than communicate it — violating MPT's own honesty norm.
+>
+> We welcome collaborators with bilingual philosophy/methodology translation experience to reach out via Issues or PRs.
+
+---
+
 ## Authors · 作者
 
 N.T.Black，大道五十，🌟，酒歌，Undefined，呜喵汪，江上木叶，赛可-道尔顿，爬爬娘，月随风，炽白三号，1210，黄河，贼猛了，龙龙，及所有群友

@@ -10,6 +10,8 @@ chinese_version: material-praxis-theory-third-edition.zh.md
 # Material-Praxis Theory: The Praxis-Anchoring Razor and a Methodology for Systematic Error Correction — Third Edition (English Summary)
 
 > **About this document**: This is an English summary of the full treatise (~280,000 Chinese characters). The complete Chinese text is available at [`material-praxis-theory-third-edition.zh.md`](material-praxis-theory-third-edition.zh.md).
+>
+> **Why no full English translation?** MPT itself demonstrates why: imprecise translation causes severe B1-layer information loss. The v5 English edition already required a footnote disclaiming that "'Material' does not denote ontological materialism." If even the name of the framework demands a corrective note, translating a 280,000-character treatise without native-level bilingual proficiency and a reliable translation team would more likely distort the framework than transmit it — a violation of MPT's own honesty norm. The full English translation is therefore deferred until such resources are available.
 
 ---
 
