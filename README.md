@@ -36,10 +36,7 @@ MPT answers one question: **"What problem are you stuck on, and how do we move f
 │   ├── 唯物实践论：实践锚定剃刀与系统性纠错的方法论 第四版.md        → 完整论著第四版（中文，~8万字符）
 │   ├── material-praxis-theory-fourth-edition.en.md      → Treatise Fourth Edition (English Summary)
 │   ├── 唯物实践论_SYSTEM_PROMPT_v6.md                  → MPT 系统提示词 v6（中文）
-│   ├── material-praxis-theory-third-edition.zh.md       → 完整论著第三版（中文，~11万字符）
-│   ├── material-praxis-theory-third-edition.en.md       → Treatise Third Edition (English Summary)
-│   ├── material-praxis-theory-v5.zh.md                  → v5.0 操作手册（中文）
-│   └── material-praxis-theory-v5.en.md                  → v5.0 Operating Manual (English)
+│   └── mpt-system-prompt-v6.en.md                  → V6 System Prompt (English)
 └── examples/
     ├── case-1-ai-compute-narrative.zh.md                → 案例1：AI算力叙事（中文）
     ├── case-1-ai-compute-narrative.en.md                → Case 1: AI Compute Narrative (English)
@@ -60,7 +57,7 @@ MPT answers one question: **"What problem are you stuck on, and how do we move f
 
 ### 关于英文版本 · A Note on the English Translation
 
-本仓库提供 v5 核心框架的完整英译及案例英译、v6 系统提示词的完整英译、以及*第四版和第三版完整论著的英文摘要**。完整论著不提供全文翻译。这不是一个暂时性的文档缺口，而是方法论自身的逻辑结论：
+本仓库提供 v6 系统提示词的完整英译、以及*第四版完整论著的英文摘要**。完整论著不提供全文翻译。这不是一个暂时性的文档缺口，而是方法论自身的逻辑结论：
 
 MPT 框架自身可以简洁地证明：不严谨的翻译会导致 B1（认知框架）层信息发生严重丢失。"Material" 一词就不得不单独声明 'Material' 不是本体论唯物主义——连框架名称中的一个词都需要额外脚注来纠偏，完整论著（8万字符）的翻译风险可见一斑。在作者本人尚不具备足够的英文写作能力、且没有可靠的翻译团队支持的情况下，仓促的全书英译反而可能造成 B1 失真——这与 MPT 自身的诚实性规范相悖。
 我们欢迎有双语哲学方法论翻译经验的合作者通过 Issue 或 PR 联系。
