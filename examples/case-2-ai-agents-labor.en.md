@@ -2,6 +2,7 @@
 title: Case Study 2 — Claude Tag and the "AI Coworker": A Qualitative Shift in C1/C2
 short: MPT Case Study 2 — AI Agents & Labor
 domain: Artificial Intelligence / Labor / Social Organization
+mpt_version: v5
 mpt_tools: C1/C2 Dynamics, Practice-Detachment Warning, First Law Review, B1 Alienation Detection
 date: 2026-06-24
 license: CC BY-SA 4.0

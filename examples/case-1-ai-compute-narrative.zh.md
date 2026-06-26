@@ -2,6 +2,7 @@
 title: 案例1 — AI算力叙事：一个B1异化的实时诊断
 short: MPT Case Study 1 — AI Compute Narrative
 domain: 科技 / 金融 / 认知
+mpt_version: v5
 mpt_tools: B1异化检测、差值分析、四象限模型、第一律审查
 date: 2026-06-24
 license: CC BY-SA 4.0

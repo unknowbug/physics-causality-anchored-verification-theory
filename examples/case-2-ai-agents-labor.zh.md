@@ -2,6 +2,7 @@
 title: 案例2 — Claude Tag与"AI同事"：C1/C2的质变时刻
 short: MPT Case Study 2 — AI Agents & Labor
 domain: 人工智能 / 劳动 / 社会组织
+mpt_version: v5
 mpt_tools: C1/C2动态、实践偏离预警、第一律审查、B1异化检测
 date: 2026-06-24
 license: CC BY-SA 4.0

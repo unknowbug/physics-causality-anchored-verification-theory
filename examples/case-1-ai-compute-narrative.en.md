@@ -2,6 +2,7 @@
 title: Case Study 1 — AI Compute Narrative: A Real-Time B1 Alienation Diagnosis
 short: MPT Case Study 1 — AI Compute Narrative
 domain: Technology / Finance / Cognition
+mpt_version: v5
 mpt_tools: B1 Alienation Detection, Delta Analysis, Four-Quadrant Model, First Law Review
 date: 2026-06-24
 license: CC BY-SA 4.0
