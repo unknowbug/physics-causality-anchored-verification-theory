@@ -32,6 +32,12 @@
 │   ├── 唯物实践论_SYSTEM_PROMPT_v6.md                → MPT 系统提示词 v6（中文）
 │   └── mpt-system-prompt-v6.en.md                    → V6 System Prompt (English — functional, not equivalent)
 │
+├── papers/
+│   ├── README.md                                        → 论文索引与版本说明
+│   ├── 唯物实践论：人民论——社会主体的生成与立场收敛（第二次修改）.md  → 人民论（**早期MPT框架**，不含A1/A2/第二律/第三律）
+│   ├── 女权叙事的自毁力学——认知失调的死亡螺旋.md        → 性别分析（中期）
+│   ├── economics/                                       → 经济学应用分析（v5）
+│   └── ...                                              → 其他应用分析
 └── examples/
     ├── case-1-ai-compute-narrative.zh.md             → 案例1：AI算力叙事
     ├── case-1-ai-compute-narrative.en.md             → Case 1: AI Compute Narrative
@@ -53,7 +59,8 @@
 2. **然后读两份声明** → `core/第一律公理声明.md` + `core/自指一致性声明.md`
 3. **看案例（v6 推荐）** → `examples/case-3-*` 和 `case-4-*`
 4. **完整论著** → `core/唯物实践论：实践锚定剃刀与系统性纠错的方法论 第四版.md`
-5. **英文读者建议** → 见下文"关于英文版本"
+5. **衍生论文** → `papers/README.md`（人民论、经济学、平权等应用分析，注意框架版本差异）
+6. **英文读者建议** → 见下文"关于英文版本"
 
 ---
 
