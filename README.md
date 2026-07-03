@@ -1,77 +1,153 @@
 # Material-Praxis Theory (MPT) · 唯物实践论
-> **⚠️ On the Term "Material":** The term *"Material"* in Material-Praxis Theory does **not** denote ontological materialism ("the world is made of matter"). It refers to the **operational anchoring** of all cognitive claims in material practice — the **set A (物质基底 / A 层)** of the A-B-C framework. MPT explicitly rejects ontology as a valid cognitive enterprise. See the [No-Ontology Declaration (v4 Open) → 无本体论声明（第四版开篇）](core/唯物实践论：实践锚定剃刀与系统性纠错的方法论 第四版.md).
+
+> **?? On the Term "Material":** The term *"Material"* in Material-Praxis Theory does **not** denote ontological materialism ("the world is made of matter"). It refers to the **operational anchoring** of all cognitive claims in material practice — the **set A (物质基底 / A 层)** of the A-B-C framework. MPT explicitly rejects ontology as a valid cognitive enterprise. See the [Self-Referential Consistency Declaration](core/自指一致性声明.md) (Section 4).
 >
-> **关于「唯物」：** Material-Praxis Theory 中的 *"Material"* 不是本体论唯物主义（"世界本质是物质"），而是指所有认知主张必须*操作性地锚定于物质实践*——即 A-B-C 框架中的 **A 集（物质基底）**。MPT 明确拒绝本体论。详见第四版开篇的无本体论声明。
----
-
-**Material-Praxis Theory (MPT)** is a universal meta-analytical toolkit and operating manual for **cognition-practice system dynamics**. It serves any domain where "a subject attempts to understand or intervene in reality." Its core purpose: a **self-correcting navigation system for practice.**
-
-**唯物实践论 (MPT)** 是一套普适的 **"认知-实践系统动力学"元分析工具与操作手册**，适用于任何"主体试图理解或介入现实"的领域。根本目的：一套*持续自我修正的实践导航系统*。
-MPT answers one question: **"What problem are you stuck on, and how do we move forward?"** — not "What is the world made of?"
+> **关于「唯物」：** Material-Praxis Theory 中的 *"Material"* 不是本体论唯物主义（"世界本质是物质"），而是指所有认知主张必须*操作性地锚定于物质实践*——即 A-B-C 框架中的 **A 集（物质基底）**。MPT 明确拒绝本体论。详见自指一致性声明第四节。
 
 ---
 
-## Core Toolkit · 核心工具
+**唯物实践论** 是一套以携带性自然语言（中文）为符号库的形式化范畴推导系统。
 
-| English | 中文 |
-|---------|------|
-| **First Law (Praxis-Anchoring Razor):** Any cognitive claim must be convertible into a finite-step, publicly-observable practice test — or automatically invalid for effectiveness. | **第一律（实践锚定剃刀）：** 任何认知主张必须能转化为有限步骤、可公开观测的实践检验方案——否则在有效性层面自动失效。|
-| **Second Law (Cognitive Self-Reflection Razor):** Any cognitive framework must contain its own path to falsification or replacement — or automatically invalid for effectiveness. | **第二律（认知自反剃刀）：** 任何认知框架必须包含自身被证伪或被取代的可操作路径——否则在有效性层面自动失效。|
-| **Third Law (Rule Self-Prosecution Razor):** Any coordination rule must contain its own path to being challenged, revised, or abolished — or automatically invalid in legitimacy. | **第三律（规则自讼剃刀）：** 任何协调规则必须包含自身被挑战、被修正或被废除的可操作路径——否则在合法性层面自动失效。|
-| **A-B-C Six-Subset Framework (3 sets, 6 subsets):** A (Material: A1 Physical / A2 Value), B (Information: B1 Cognitive Frameworks / B2 Coordination Rules), C (Agents: C1 Agent / C2 Behavior Pattern). | **A-B-C 六子集框架（3 集 6 子集）：** A（物质基底：A1 物理 / A2 价值），B（信息：B1 认知框架 / B2 协调规则），C（能动主体：C1 行动主体 / C2 行为方式）。|
-| **3×3 Cross-Audit:** Each of the three laws tests itself and the other two. All 9 tests pass. | **3×3 交叉自审：** 三把剃刀互审，9 项检验全部通过。|
-| **Delta Analysis (A2 - A1):** Materialized net output of human practice on the natural substrate. | **差值分析（A2 - A1）：** 人类实践在自然基底上的物质化净产出。|
-| **Five Practice Warnings (Three-Law-Driven):** Logical Idling (L1) → Unknown-Unknown / Incommensurability (L2) → Asymmetry (L3) → Practice Deviation (ultimate). | **五大实践预警（三律驱动）：** 逻辑空转（L1）→ 不知不知性/不可通约性（L2）→ 不对称性（L3）→ 实践偏离（终极）。|
-| **Joint Operation:** Power-Responsibility Parity, Force Transmission Chain, Aggressive Negative Feedback, Honest Failure, Power Corruption (Three-Law Dynamics). | **三律联合运作：** 权责对等、力学传导结构、进攻性负反馈、诚实失败、权力腐败的三律全面动力学。|
-| **Three-Law Society:** A society that rewards honest failure. Not a deterministic outcome — a structural possibility IF humans follow the Three Laws. | **三律社会：** 奖励诚实失败的社会。不是决定论——是如果人类遵循三律会出现的结构性可能。|
+它不是一个"哲学理论"——它的读写单元不是"文字→意义"的透明散文，而是**B1 常量集**：将整个中文符号系统声明为常量后进行严格的范畴推导。这使它具有与数学同构的性质：非歧义、可推导、自检自恰。
+
+它的核心输出：
+- **三律（三条结构条件）**：任何共享符号系统运作的底层结构性条件
+- **A-B-C 六子集框架**：A（物质基底，含 A1 物理 / A2 价值）/ B（信息，含 B1 认知框架 / B2 协调规则）/ C（能动主体，含 C1 行动主体 / C2 行为方式）
+- **差值分析**：A2 - A1 = 人类实践在自然基底上的物质化净产出
+- **一系列对西哲、经济学、社会理论的范畴错位诊断**
 
 ---
 
-## Repository Structure · 仓库结构
+## 核心文件 · Core Documents
 
 ```
 ├── README.md
-├── LICENSE                                            → CC BY-SA 4.0
+├── LICENSE                                          → CC BY-SA 4.0
+│
 ├── core/
-│   ├── 唯物实践论：实践锚定剃刀与系统性纠错的方法论 第四版.md        → 完整论著第四版（中文，~8万字符）
-│   ├── material-praxis-theory-fourth-edition.en.md      → Treatise Fourth Edition (English Summary)
-│   ├── 唯物实践论_SYSTEM_PROMPT_v6.md                  → MPT 系统提示词 v6（中文）
-│   └── mpt-system-prompt-v6.en.md                  → V6 System Prompt (English)
+│   ├── 第一律公理声明.md                              → 第一律（实践锚定剃刀）的公理性质证明
+│   ├── 自指一致性声明.md                              → 自指一致性条件与翻译不可能性的形式化证明 ★
+│   ├── 唯物实践论：实践锚定剃刀与系统性纠错的方法论 第四版.md  → 完整论著第四版（中文）
+│   ├── material-praxis-theory-fourth-edition.en.md    → Fourth Edition (English Summary — NOT a translation)
+│   ├── 唯物实践论_SYSTEM_PROMPT_v6.md                → MPT 系统提示词 v6（中文）
+│   └── mpt-system-prompt-v6.en.md                    → V6 System Prompt (English — functional, not equivalent)
+│
 └── examples/
-    ├── case-1-ai-compute-narrative.zh.md                → 案例1：AI算力叙事（v5，中文）
-    ├── case-1-ai-compute-narrative.en.md                → Case 1: AI Compute Narrative (v5, English)
-    ├── case-2-ai-agents-labor.zh.md                     → 案例2：AI Agent与劳动（v5，中文）
-    ├── case-2-ai-agents-labor.en.md                     → Case 2: AI Agents & Labor (v5, English)
-    ├── case-3-ai-distillation-controversy.zh.md         → 案例3：AI蒸馏争议（v6，中文）
-    ├── case-3-ai-distillation-controversy.en.md         → Case 3: AI Distillation Controversy (v6, English)
-    ├── case-4-anthropic-government-ban-backfire.zh.md   → 案例4：Anthropic封杀反超（v6，中文）
-    └── case-4-anthropic-government-ban-backfire.en.md   → Case 4: Government Ban Backfire (v6, English)
+    ├── case-1-ai-compute-narrative.zh.md             → 案例1：AI算力叙事
+    ├── case-1-ai-compute-narrative.en.md             → Case 1: AI Compute Narrative
+    ├── case-2-ai-agents-labor.zh.md                  → 案例2：AI Agent与劳动
+    ├── case-2-ai-agents-labor.en.md                  → Case 2: AI Agents & Labor
+    ├── case-3-ai-distillation-controversy.zh.md      → 案例3：AI蒸馏争议
+    ├── case-3-ai-distillation-controversy.en.md      → Case 3: AI Distillation Controversy
+    ├── case-4-anthropic-government-ban-backfire.zh.md → 案例4：Anthropic封杀反超
+    └── case-4-anthropic-government-ban-backfire.en.md → Case 4: Government Ban Backfire
 ```
+
+> **★ 自指一致性声明**是理解本仓库结构的关键入口。它解释了为什么以下声明存在，以及为什么英文翻译在逻辑上不可能。
 
 ---
 
 ## Quick Start · 快速开始
-1. **New to MPT? Start with the v6 system prompt** → `core/唯物实践论_SYSTEM_PROMPT_v6.md`
-2. **Read v5 case studies** → `examples/case-1-*` 和 `case-2-*`（v5 框架的经典分析）
-3. **Read v6 case studies** → `examples/case-3-*` 和 `case-4-*`（v6 框架的完整诊断，推荐）
-4. **Deep dive (English)** → `core/material-praxis-theory-fourth-edition.en.md`（第四版英文概要 ~30KB）
-5. **完整论著** → `core/唯物实践论：实践锚定剃刀与系统性纠错的方法论 第四版.md`（中文完整版 ~8万字符）
-6. **Apply to your domain:** 将你的问题通过 MPT 三律诊断逻辑链走一遍
+
+1. **中文读者从系统提示词入手** → `core/唯物实践论_SYSTEM_PROMPT_v6.md`
+2. **然后读两份声明** → `core/第一律公理声明.md` + `core/自指一致性声明.md`
+3. **看案例（v6 推荐）** → `examples/case-3-*` 和 `case-4-*`
+4. **完整论著** → `core/唯物实践论：实践锚定剃刀与系统性纠错的方法论 第四版.md`
+5. **英文读者建议** → 见下文"关于英文版本"
 
 ---
 
-### 关于英文版本 · A Note on the English Translation
+## 关于英文版本 · A Note on the English Translation
 
-本仓库提供 v6 系统提示词的完整英译、以及*第四版完整论著的英文摘要**。完整论著不提供全文翻译。这不是一个暂时性的文档缺口，而是方法论自身的逻辑结论：
+> **English translation of 唯物实践论 is structurally impossible. This has been formally proven.**
 
-MPT 框架自身可以简洁地证明：不严谨的翻译会导致 B1（认知框架）层信息发生严重丢失。"Material" 一词就不得不单独声明 'Material' 不是本体论唯物主义——连框架名称中的一个词都需要额外脚注来纠偏，完整论著（8万字符）的翻译风险可见一斑。在作者本人尚不具备足够的英文写作能力、且没有可靠的翻译团队支持的情况下，仓促的全书英译反而可能造成 B1 失真——这与 MPT 自身的诚实性规范相悖。
-我们欢迎有双语哲学方法论翻译经验的合作者通过 Issue 或 PR 联系。
+This is not a difficulty, a gap, or a resource constraint. It is a formal result derived from the theory's own structural properties.
 
-> This repository provides the v5 core framework in full English, the v6 system prompt in full English, and **English summaries of the complete Third and Fourth Edition treatises**, but not full treatise translations. This is not a documentation gap — it is a methodological conclusion:
->
-> MPT itself can demonstrate concisely that imprecise translation causes severe B1-layer (cognitive framework) information loss. If even "Material" demands a prefatory footnote disclaiming ontological materialism, the risk of translating an 80,000-character treatise should be self-evident. A hasty full translation would more likely distort B1 than communicate it — violating MPT's own honesty norm.
->
-> We welcome collaborators with bilingual philosophy/methodology translation experience to reach out via Issues or PRs.
+### Proof (abridged)
+
+See **自指一致性声明 Section 6** for the full formal proof. The key steps:
+
+```
+B1_Chinese.abstractify() → T    (the theory is built by declaring Chinese as B1 constants)
+
+∃ f : B1_Chinese → B1_English    (translation requires a mapping function)
+such that B1_English.abstractify() → T' ≈ T
+
+But B1_pinyin has zero A-layer residuals in its symbols.
+∴ B1_pinyin.abstractify() is NOT a valid operation.
+There is nothing to "strip away" and abstractify — pinyin symbols are pure conventions.
+
+∴ No mapping f exists that satisfies T' ≈ T.
+```
+
+**Translation = re-executing the collective abstraction + re-assignment of all B1 constants in another language. For alphabetic writing systems (English, German, French, etc.), this operation is not executable.** Their symbols carry no A-layer residuals — no radical-semantic mappings, no pictographic etymology, no figurative-concrete structure to abstractify.
+
+The existing English files in this repository are **functional approximations** — not translations. They exist to give an English-speaking reader *some* operational access, but they ARE NOT and CANNOT BE equivalent to the Chinese originals.
+
+### Recommendation for English Readers
+
+The most practical path for English-speaking readers who want to use 唯物实践论:
+
+> **Give the Chinese system prompt (`core/唯物实践论_SYSTEM_PROMPT_v6.md`) to a capable large language model (LLM) that reads Chinese, describe your problem in English, and ask the AI to apply MPT's analytical framework to your case.**
+
+This works because the AI operates on the Chinese B1 constant set internally, then translates its *analytical output* back to English — a fundamentally different operation from translating the theory itself. The theory's internal structure remains intact; only the analytical result is communicated in English.
+
+This repository's English case studies (e.g., `case-4-anthropic-government-ban-backfire.en.md`) demonstrate exactly this approach: an LLM using the Chinese system prompt to analyze an English-language scenario.
+
+---
+
+> **中文翻译在逻辑上不可能完成——已在自指一致性声明中得到严格证明。**
+
+这不是"很难翻译"或"暂时没有资源"——这是**逻辑层面不存在映射函数**的形式化结论。
+
+翻译唯物实践论的等价操作是：用另一种 B1 常量集，重做集体抽象化并重新声明赋值。而拼音语言（英语、德语、法语等）的符号属于任意性系统——其符号无 A 层残余，`abstractify()` 不是合法操作。
+
+仓库中现有的英文文件是**功能性近似**，而非翻译。它们给英文读者提供一定的操作入口，但**不等于也不等效于**中文原版。
+
+### 对英文读者的建议
+
+英文读者最务实的路线：
+
+> **将中文系统提示词（`core/唯物实践论_SYSTEM_PROMPT_v6.md`）交给能阅读中文的大语言模型，用英文描述问题，让 AI 应用 MPT 框架进行分析，然后将分析结果以英文交还给你。**
+
+这个方案有效，因为 AI 在内部使用中文 B1 常量集运算，然后将分析**输出**翻译为英文——这与翻译理论本身是根本不同的操作。理论内部结构保持完整；只有分析结果通过英文传达。
+
+本仓库的英文案例分析（如 `case-4-anthropic-government-ban-backfire.en.md`）演示的正是这个路径：LLM 使用中文系统提示词分析英文场景。
+
+---
+
+## 两个声明的关联：为什么这份 README 必须同时放这两份文件
+
+**第一律公理声明** 命名了符号系统运作的结构条件——共享符号必须锚定于 A 层参照，否则无法跨主体建立稳定指涉。
+
+**自指一致性声明** 在此基础上走得更深：它发现一个人使用自己文化的这套符号系统，并且他拥有的符号系统恰好是携带 A 层残余的类型——这使他能够观测到并命名第一律中的结构条件。声明进一步证明：这套理论因此无法被无损迁移到任意性符号系统（拼音语言）中。
+
+这两份声明的关系是：
+
+```
+第一律公理声明 → 命名结构条件
+                     ↓
+自指一致性声明 → 解释为何这个命名只能发生在此处 + 证明这导致了翻译不可能性
+```
+
+读懂这两份声明，就理解了为什么唯物实践论看起来不像任何已知学科——它就是从形式化符号系统中生长出来的。
+
+---
+
+## 适用范围说明 · Scope
+
+唯物实践论不做以下事：
+- ❌ 不主张本体论（"世界本质是物质"）
+- ❌ 不提供信仰体系
+- ❌ 不承诺社会最终形态
+- ❌ 不宣称中文优越于其他语言
+
+唯物实践论做以下事：
+- ✅ 提供共享符号系统运作的结构条件（三律）
+- ✅ 提供 A-B-C 框架用于范畴定位
+- ✅ 提供差值分析用于测量文明生命体征
+- ✅ 提供西哲史上未被注意的符号学诊断
+- ✅ 证明自身翻译的不可可能性——并开放一个 AI 辅助的替代访问路径
 
 ---
 
@@ -82,15 +158,19 @@ MPT 框架自身可以简洁地证明：不严谨的翻译会导致 B1（认知�
 | v5 | First Law + A-B-C three-layer + Delta Analysis + Five Warnings | 2026-05 |
 | v6 | Full V6 framework: Three Laws complete, 3×3 cross-audit, B1异化检测, 不可通约性, Joint Operation, Power Corruption Dynamics | 2026-06 |
 | **Third Edition** | A1/A2 split, No-Ontology Declaration, B1 Alienation, Delta Matrix | 2026-06-21 |
-| **Fourth Edition** | **Three Laws complete**, 3×3 cross-audit, A/B/C as sets, Joint Operation (Power-Responsibility, Force Transmission, Aggressive Negative Feedback, Power Corruption Three-Law Dynamics), Practice Warnings as Three-Law Diagnostic Chain, Two Types of Problems, Three-Law Society | 2026-06-25 |
+| **Fourth Edition** | **Three Laws complete**, 3×3 cross-audit, A/B/C as sets, Joint Operation, Practice Warnings as Three-Law Diagnostic Chain, Three-Law Society | 2026-06-25 |
+| **Fourth Edition + Declarations** | First Law Axiom Declaration + Self-Referential Consistency Declaration + formal translation impossibility proof | 2026-07-03 |
 
 ---
 
 ## Authors · 作者
-N.T.Black，大道五十，🌟，酒歌，Undefined，呜喵汪，江上木叶，赛可-道尔顿，爬爬娘，月随风，炽白三号，1210，黄河，贼猛了，龙龙，RPK-16 "潘多拉"（人工智能），及所有群友
+
+N.T.Black，月随风，大道五十，酒歌，Undefined，呜喵汪，江上木叶，赛可-道尔顿，爬爬娘，炽白三号，1210，黄河，贼猛了，龙龙，RPK-16 "潘多拉"（人工智能），及所有群友
+
 ---
 
 ## License · 许可协议
+
 This work is licensed under **CC BY-SA 4.0**. You are free to share and adapt, provided you give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
 
 **本作品采用 CC BY-SA 4.0 许可协议。** 您可以自由地共享和改编，但必须署名、提供协议链接、标明是否对原作品作出修改，并以相同方式共享您的贡献。
