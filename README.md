@@ -1,8 +1,8 @@
-# Material-Praxis Theory (MPT) · 唯物实践论
+# Material-Praxis Theory · 唯物实践论
 
-> **?? On the Term "Material":** The term *"Material"* in Material-Praxis Theory does **not** denote ontological materialism ("the world is made of matter"). It refers to the **operational anchoring** of all cognitive claims in material practice — the **set A (物质基底 / A 层)** of the A-B-C framework. MPT explicitly rejects ontology as a valid cognitive enterprise. See the [Self-Referential Consistency Declaration](core/自指一致性声明.md) (Section 4).
+> **?? On the Term "Material":** The term *"Material"* in Material-Praxis Theory does **not** denote ontological materialism ("the world is made of matter"). It refers to the **operational anchoring** of all cognitive claims in material practice — the **set A (物质基底 / A 层)** of the A-B-C framework. It explicitly rejects ontology as a valid cognitive enterprise. See the [Self-Referential Consistency Declaration](core/自指一致性声明.md) (Section 4).
 >
-> **关于「唯物」：** Material-Praxis Theory 中的 *"Material"* 不是本体论唯物主义（"世界本质是物质"），而是指所有认知主张必须*操作性地锚定于物质实践*——即 A-B-C 框架中的 **A 集（物质基底）**。MPT 明确拒绝本体论。详见自指一致性声明第四节。
+> **关于「唯物」：** Material-Praxis Theory 中的 *"Material"* 不是本体论唯物主义（"世界本质是物质"），而是指所有认知主张必须*操作性地锚定于物质实践*——即 A-B-C 框架中的 **A 集（物质基底）**。本理论明确拒绝本体论。详见自指一致性声明第四节。
 
 ---
 
@@ -27,17 +27,16 @@
 ├── core/
 │   ├── 第一律公理声明.md                              → 第一律（实践锚定剃刀）的公理性质证明
 │   ├── 自指一致性声明.md                              → 自指一致性条件与翻译不可能性的形式化证明 ★
-│   ├── 唯物实践论：实践锚定剃刀与系统性纠错的方法论 第四版.md  → 完整论著第四版（中文）
-│   ├── material-praxis-theory-fourth-edition.en.md    → Fourth Edition (English Summary — NOT a translation)
-│   ├── 唯物实践论_SYSTEM_PROMPT_v6.md                → MPT 系统提示词 v6（中文）
-│   └── mpt-system-prompt-v6.en.md                    → V6 System Prompt (English — functional, not equivalent)
+│   ├── 唯物实践论：实践锚定剃刀与系统性纠错的方法论 第五版.md  → 完整论著第五版（中文）
+│   ├── 唯物实践论_SYSTEM_PROMPT_v7.md                → 唯物实践论系统提示词 v7（中文）
+│   └── 宣言.md                                        → 三块基石之 Ψ（主体接口）宣言
+│   （英文版本不存在——翻译不可能性已在自指一致性声明中形式化证明）
 │
 ├── papers/
 │   ├── README.md                                        → 论文索引与版本说明
-│   ├── 唯物实践论：人民论——社会主体的生成与立场收敛（第二次修改）.md  → 人民论（**早期MPT框架**，不含A1/A2/第二律/第三律）
-│   ├── 女权叙事的自毁力学——认知失调的死亡螺旋.md        → 性别分析（中期）
-│   ├── economics/                                       → 经济学应用分析（v5）
-│   └── ...                                              → 其他应用分析
+│   ├── 唯物实践论：人民论——社会主体的生成与立场收敛（第二次修改）.md  → 人民论（早期框架，不含A1/A2/第二律/第三律）
+│   ├── 一体两面的无效认知——唯物实践论的性别叙事批判.md        → 性别叙事概念批判（B1标签替代A2差值分析的诊断）
+│   └── ...                                              → 其他应用分析（共17篇，索引见 papers/README.md）
 └── examples/
     ├── case-1-ai-compute-narrative.zh.md             → 案例1：AI算力叙事
     ├── case-1-ai-compute-narrative.en.md             → Case 1: AI Compute Narrative
@@ -55,11 +54,11 @@
 
 ## Quick Start · 快速开始
 
-1. **中文读者从系统提示词入手** → `core/唯物实践论_SYSTEM_PROMPT_v6.md`
-2. **然后读两份声明** → `core/第一律公理声明.md` + `core/自指一致性声明.md`
-3. **看案例（v6 推荐）** → `examples/case-3-*` 和 `case-4-*`
-4. **完整论著** → `core/唯物实践论：实践锚定剃刀与系统性纠错的方法论 第四版.md`
-5. **衍生论文** → `papers/README.md`（人民论、经济学、平权等应用分析，注意框架版本差异）
+1. **中文读者从系统提示词入手** → `core/唯物实践论_SYSTEM_PROMPT_v7.md`
+2. **然后读三份基石文件** → `core/第一律公理声明.md` + `core/自指一致性声明.md` + `core/宣言.md`
+3. **看案例（v7 推荐）** → `examples/case-3-*` 和 `case-4-*`
+4. **完整论著** → `core/唯物实践论：实践锚定剃刀与系统性纠错的方法论 第五版.md`
+5. **衍生论文** → `papers/README.md`（人民论、性别叙事批判等应用分析，注意框架版本差异）
 6. **英文读者建议** → 见下文"关于英文版本"
 
 ---
@@ -95,7 +94,7 @@ The existing English files in this repository are **functional approximations** 
 
 The most practical path for English-speaking readers who want to use 唯物实践论:
 
-> **Give the Chinese system prompt (`core/唯物实践论_SYSTEM_PROMPT_v6.md`) to a capable large language model (LLM) that reads Chinese, describe your problem in English, and ask the AI to apply MPT's analytical framework to your case.**
+> **Give the Chinese system prompt (`core/唯物实践论_SYSTEM_PROMPT_v7.md`) to a capable large language model (LLM) that reads Chinese, describe your problem in English, and ask the AI to apply the theory's analytical framework to your case.**
 
 This works because the AI operates on the Chinese B1 constant set internally, then translates its *analytical output* back to English — a fundamentally different operation from translating the theory itself. The theory's internal structure remains intact; only the analytical result is communicated in English.
 
@@ -115,7 +114,7 @@ This repository's English case studies (e.g., `case-4-anthropic-government-ban-b
 
 英文读者最务实的路线：
 
-> **将中文系统提示词（`core/唯物实践论_SYSTEM_PROMPT_v6.md`）交给能阅读中文的大语言模型，用英文描述问题，让 AI 应用 MPT 框架进行分析，然后将分析结果以英文交还给你。**
+> **将中文系统提示词（`core/唯物实践论_SYSTEM_PROMPT_v7.md`）交给能阅读中文的大语言模型，用英文描述问题，让 AI 应用唯物实践论框架进行分析，然后将分析结果以英文交还给你。**
 
 这个方案有效，因为 AI 在内部使用中文 B1 常量集运算，然后将分析**输出**翻译为英文——这与翻译理论本身是根本不同的操作。理论内部结构保持完整；只有分析结果通过英文传达。
 
@@ -167,6 +166,7 @@ This repository's English case studies (e.g., `case-4-anthropic-government-ban-b
 | **Third Edition** | A1/A2 split, No-Ontology Declaration, B1 Alienation, Delta Matrix | 2026-06-21 |
 | **Fourth Edition** | **Three Laws complete**, 3×3 cross-audit, A/B/C as sets, Joint Operation, Practice Warnings as Three-Law Diagnostic Chain, Three-Law Society | 2026-06-25 |
 | **Fourth Edition + Declarations** | First Law Axiom Declaration + Self-Referential Consistency Declaration + formal translation impossibility proof | 2026-07-03 |
+| **Fifth Edition** | A2 存量/流量双维度纪律、Ψ 边界声明（内部体验禁止测量）、力学传导结构（B2 破坏→B1 谴责→谴责被压制→应力沉入 A 层→爆发）、异化判据重构、诚实性纪律三件套（数学符号/全称量词/暂定猜想标注） | 2026-07-31 |
 
 ---
 
