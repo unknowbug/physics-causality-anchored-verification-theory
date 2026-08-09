@@ -2,11 +2,6 @@
 
 > **Renaming Note (2026-08-10):** Formerly *Material-Praxis Theory (MPT)*. The name was changed to **Physics-Causality-Anchored Verification Theory (PCAVT)** because *Material* and *Praxis* carry unexamined semantic load from Western philosophical traditions (ontological materialism; Aristotle-Marx praxis). The new name passes self-referential consistency review: every term is a physics/mathematics term with a defined operational meaning — *physics-causality-anchored* (Axiom 4: verification ends anchored in physical causality) and *verification* (the theory's practice = the execution of tests). The abbreviation MPT is deprecated; use **PCAVT**.
 
-
-> **?? On the Term "Material":** The term *"Material"* in Physics-Causality-Anchored Verification Theory does **not** denote ontological materialism ("the world is made of matter"). It refers to the **operational anchoring** of all cognitive claims in material practice — the **set A (物质基底 / A 层)** of the A-B-C framework. It explicitly rejects ontology as a valid cognitive enterprise. See the [Self-Referential Consistency Declaration](core/自指一致性声明.md) (Section 4).
->
-> **关于「唯物」：** Physics-Causality-Anchored Verification Theory 中的 *"Material"* 不是本体论唯物主义（"世界本质是物质"），而是指所有认知主张必须*操作性地锚定于物质实践*——即 A-B-C 框架中的 **A 集（物质基底）**。本理论明确拒绝本体论。详见自指一致性声明第四节。
-
 ---
 
 **唯物实践论** 是一套以携带性自然语言（中文）为符号库的形式化范畴推导系统。
@@ -92,6 +87,27 @@ There is nothing to "strip away" and abstractify — pinyin symbols are pure con
 **Translation = re-executing the collective abstraction + re-assignment of all B1 constants in another language. For alphabetic writing systems (English, German, French, etc.), this operation is not executable.** Their symbols carry no A-layer residuals — no radical-semantic mappings, no pictographic etymology, no figurative-concrete structure to abstractify.
 
 The existing English files in this repository are **functional approximations** — not translations. They exist to give an English-speaking reader *some* operational access, but they ARE NOT and CANNOT BE equivalent to the Chinese originals.
+
+### Translation Method 路 翻译方法 (2026-08-10)
+
+While a complete translation remains structurally impossible, a **translation method** has been found: extract the **minimal common denominator** - the theory's legitimacy kernel, expressed in the public language of mathematics and physics.
+
+The kernel consists of two locks:
+
+- **Mathematical lock**: compliance with the Godel incompleteness theorem family - the theory never claims completeness; it opens interfaces for refutation (see the alienated-formalization paper)
+- **Physical lock**: verification ends anchored in physical causality (First Law / Axiom 4)
+
+These two locks are cross-linguistic: mathematical proofs and physical experiments are public languages that do not depend on Chinese. Any reader in any language can verify the theory by verifying the locks - no translation of the Chinese construction is required. The name **Physics-Causality-Anchored Verification Theory (PCAVT)** is the first product of this method: every term passes self-referential consistency review (physics/mathematics terms with defined operational meanings).
+
+完整翻译在结构上仍然不可能，但**翻译方法已经找到**：提取**最小公约数**——以数学和物理的公共语言表达理论的合法性内核。
+
+内核由两把锁构成：
+
+- **数学锁**：遵守哥德尔不完备定理家族——理论从不声称完备，开放被推翻接口（见《形式化的异化》论文）
+- **物理锁**：检验终点锚定物理因果律（第一律，公理 4）
+
+两把锁跨语言：数学证明与物理实验是公共语言，不依赖中文。任何语言的读者通过验证两把锁即可验证理论——无需翻译中文构建部分。**Physics-Causality-Anchored Verification Theory (PCAVT)** 是该方法的首个成果：名字的每个词都通过自指一致性审查（具有操作定义的物理/数学术语）。
+
 
 ### Recommendation for English Readers
 
