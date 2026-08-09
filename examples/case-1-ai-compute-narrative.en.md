@@ -1,8 +1,8 @@
 ---
 title: Case Study 1 — AI Compute Narrative: A Real-Time B1 Alienation Diagnosis
-short: MPT Case Study 1 — AI Compute Narrative
+short: PCAVT Case Study 1 — AI Compute Narrative
 domain: Technology / Finance / Cognition
-mpt_version: v5
+pca_version: v5
 mpt_tools: B1 Alienation Detection, Delta Analysis, Four-Quadrant Model, First Law Review
 date: 2026-06-24
 license: CC BY-SA 4.0
@@ -24,17 +24,17 @@ Behind these signals, a cognitive confusion about "what AI compute is actually w
 
 ---
 
-## 2. Conventional AI Analysis (Without MPT)
+## 2. Conventional AI Analysis (Without PCAVT)
 
-Here is the typical analytical pattern of current mainstream AI (ChatGPT, Claude, etc., operating without MPT guidance) on this type of event:
+Here is the typical analytical pattern of current mainstream AI (ChatGPT, Claude, etc., operating without PCAVT guidance) on this type of event:
 
 > *"The AI compute market is undergoing a valuation recalibration. Cerebras's margin warning suggests the AI chip industry may face price-war pressure. NVIDIA's price-cut rumor, though denied, reflects market concerns about compute oversupply. OpenAI's custom chip signals vertical integration — leading AI companies are reducing dependence on NVIDIA. Overall, AI investment is transitioning from a 'scarcity premium' phase to an 'efficiency competition' phase, reminiscent of post-dot-com industry consolidation."*
 
-**What's wrong with this analysis?** Let us deconstruct it layer by layer using MPT.
+**What's wrong with this analysis?** Let us deconstruct it layer by layer using PCAVT.
 
 ---
 
-## 3. MPT v5 Layer-by-Layer Analysis
+## 3. PCAVT v5 Layer-by-Layer Analysis
 
 ### 3.1 Four Filters of Pre-Screening
 
@@ -76,13 +76,13 @@ Here is the typical analytical pattern of current mainstream AI (ChatGPT, Claude
 
 Conventional AI analysis places the discussion in **Quadrant III (Void-Referencing, Open Divergence)** — using B1 concepts ("faith," "bubble," "narrative") to explain B2 price movements, with zero A-layer anchoring throughout.
 
-MPT analysis pulls the discussion back to **Quadrant II → Quadrant I**: first anchor in A1/A2 physical facts (chip capacity, compute deployment volumes), then ask how much of the B2 price movement is noise driven by B1 narratives and how much reflects a real slowdown in A2 growth — **this is a testable question.**
+PCAVT analysis pulls the discussion back to **Quadrant II → Quadrant I**: first anchor in A1/A2 physical facts (chip capacity, compute deployment volumes), then ask how much of the B2 price movement is noise driven by B1 narratives and how much reflects a real slowdown in A2 growth — **this is a testable question.**
 
 ---
 
 ## 4. Comparison: Cognitive Increment Difference
 
-| Dimension | Conventional AI (Without MPT) | MPT v5 Analysis |
+| Dimension | Conventional AI (Without PCAVT) | PCAVT v5 Analysis |
 |-----------|------------------------------|-----------------|
 | **Object of Discussion** | Cycles between B1 and B2 ("belief," "valuation," "bubble") | Forces distinction of A1/A2/B1/B2; asks "Which layer are you actually talking about?" |
 | **Anchoring** | None — explains B2 fluctuation with B1 narratives | A1 (physical capacity) and A2 (actual deployment volume) |
@@ -93,7 +93,7 @@ MPT analysis pulls the discussion back to **Quadrant II → Quadrant I**: first 
 
 ---
 
-## 5. MPT Operational Recommendations
+## 5. PCAVT Operational Recommendations
 
 1. **For Investors**: Distinguish "Am I trading B2 volatility or evaluating A2 growth?" If the former, it's speculation, not investment.
 2. **For Media**: When reporting stock prices, do not substitute "compute" for "stock price." The headline "AI faith wavers" should read "AI chip stocks drop 10%."

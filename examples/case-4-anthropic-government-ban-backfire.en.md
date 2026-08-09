@@ -1,6 +1,6 @@
 ---
 title: Case 4 — Anthropic Government Ban Backfires, Surpassing OpenAI: "National Security Threat" Becomes the Best Advertisement
-short: MPT Case Study 4 — Government Ban Backfires for Anthropic
+short: PCAVT Case Study 4 — Government Ban Backfires for Anthropic
 domain: Technology / Geopolitics / Market / Power Dynamics
 mpt_tools: B2 Rule Abuse, B1 Reverse Signal, Joint Operation (Three-Law), Power Corrosion Dynamics, Power-Responsibility Parity, A-Level Verification
 date: 2026-06-26
@@ -31,15 +31,15 @@ Meanwhile, Anthropic's response:
 
 ---
 
-## II. Conventional AI Analysis (Without MPT Framework)
+## II. Conventional AI Analysis (Without PCAVT Framework)
 
 > *"The U.S. government cracked down on Anthropic on national security grounds, but the effort backfired. This ban instead earned Anthropic market sympathy, and enterprise clients accelerated procurement out of fear of supply chain disruption. The government's intervention in the AI market was both unwise and ineffective — it did not protect national security, and instead weakened the American company most committed to AI safety. This once again proves that government regulation of emerging technologies often underestimates the market's adaptive capacity."*
 
-**This analysis captures the surface, but what does it miss?** Let us dissect it layer by layer using the MPT v6 framework.
+**This analysis captures the surface, but what does it miss?** Let us dissect it layer by layer using the PCAVT v6 framework.
 
 ---
 
-## III. Layer-by-Layer Analysis Under the MPT v6 Framework
+## III. Layer-by-Layer Analysis Under the PCAVT v6 Framework
 
 ### 3.1 Quadruple Pre-Audit
 
@@ -77,7 +77,7 @@ Meanwhile, Anthropic's response:
 
 - **A2 (Materialized service capability)**: After closing the strongest models, Anthropic's net A2 service capability **decreased** — the highest-grade model option available to clients was removed.
 - **B2 (Revenue/Market share)**: B2 indicators **rose sharply** — ARR +233%, share from 34.4% to 41%.
-- **A2 - B2 Opposite Directions**: **This is a classic divergence state of A2 decrease combined with B2 surge.** Conventional analysis interprets this as "the government crackdown failed," but MPT points out: This is the B2-level price signal being distorted by a B1 narrative (scarcity panic), detached from A2 anchoring. The Delta direction is the reverse of the conventional — A2 Delta contracts, B2 Delta expands. **If the B2 bubble bursts (enterprise clients discover that the capability of the blocked model can be met by substitutes), Anthropic's B2 will rapidly correct.**
+- **A2 - B2 Opposite Directions**: **This is a classic divergence state of A2 decrease combined with B2 surge.** Conventional analysis interprets this as "the government crackdown failed," but PCAVT points out: This is the B2-level price signal being distorted by a B1 narrative (scarcity panic), detached from A2 anchoring. The Delta direction is the reverse of the conventional — A2 Delta contracts, B2 Delta expands. **If the B2 bubble bursts (enterprise clients discover that the capability of the blocked model can be met by substitutes), Anthropic's B2 will rapidly correct.**
 
 | Delta Dimension | Change | Direction |
 |-----------------|--------|-----------|
@@ -87,7 +87,7 @@ Meanwhile, Anthropic's response:
 
 ### 3.5 Joint Three-Law Operation Analysis ⚠️ Unique Feature of This Case
 
-The most distinctive MPT contribution of this case: It demonstrates that the three laws are not an isolated checklist, but a **joint-operating mechanical system**. All three laws acted simultaneously within this chain of events, forming a complex force transmission chain.
+The most distinctive PCAVT contribution of this case: It demonstrates that the three laws are not an isolated checklist, but a **joint-operating mechanical system**. All three laws acted simultaneously within this chain of events, forming a complex force transmission chain.
 
 #### Step 1: B2 Rule Abuse (Third Law Failure)
 
@@ -163,7 +163,7 @@ This case demonstrates an **unconventional trajectory** of power corrosion — t
 
 ## IV. Comparison: Difference in Cognitive Increment
 
-| Dimension | Conventional Analysis (Without MPT) | MPT v6 Analysis |
+| Dimension | Conventional Analysis (Without PCAVT) | PCAVT v6 Analysis |
 |-----------|-------------------------------------|-----------------|
 | **Interpretation of market share surge** | "Government crackdown failed, market rejects it" | "Multi-layer mechanical process of B2 Rule → B1 Reverse Signal → C2 Panic Buying," revealing the divergence between B2 and A2 |
 | **Understanding of government behavior** | "Government made a wrong decision, underestimated market adaptive capacity" | Identifies the fourth stage of power corrosion (alienation already occurred) and Asymmetry Warning — not "error" but "power structure problem" |
@@ -174,7 +174,7 @@ This case demonstrates an **unconventional trajectory** of power corrosion — t
 
 ---
 
-## V. MPT Operational Recommendations
+## V. PCAVT Operational Recommendations
 
 1. **For the government (Pentagon/White House)**: This case exposes the core feature of power corrosion — **you cannot find the problems with your framework using the terms of that framework.** The White House needs to practice **Aggressive Negative Feedback** by asking: "If my regulatory measures actually promoted the growth of the target company, what mechanism do I have to discover this?" Second Law self-reflection: Add a policy evaluation procedure — 90 days after export controls are imposed, automatically trigger policy evaluation based on A2 data (actual changes in the target enterprise's market share). Third Law: Establish hearing and review mechanisms for regulated enterprises, lowering the C1 resource threshold for challenging policy.
 

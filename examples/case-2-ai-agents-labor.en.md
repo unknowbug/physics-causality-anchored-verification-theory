@@ -1,8 +1,8 @@
 ---
 title: Case Study 2 — Claude Tag and the "AI Coworker": A Qualitative Shift in C1/C2
-short: MPT Case Study 2 — AI Agents & Labor
+short: PCAVT Case Study 2 — AI Agents & Labor
 domain: Artificial Intelligence / Labor / Social Organization
-mpt_version: v5
+pca_version: v5
 mpt_tools: C1/C2 Dynamics, Practice-Detachment Warning, First Law Review, B1 Alienation Detection
 date: 2026-06-24
 license: CC BY-SA 4.0
@@ -25,7 +25,7 @@ Simultaneously, media coverage erupts with polarized narratives: on one side, pa
 
 ---
 
-## 2. Conventional AI Analysis (Without MPT)
+## 2. Conventional AI Analysis (Without PCAVT)
 
 > *"Claude Tag represents the evolution of AI agents from 'tools' to 'coworkers.' With 65% of Anthropic's internal code now AI-generated, this signals a profound transformation in the software development industry. In the short term, AI will replace repetitive coding tasks; in the long term, human programmers will shift toward higher-level architecture design and creative work. This brings both a productivity revolution and legitimate concerns about job security. The key question is: what kind of education and labor policies do we need to navigate this transition?"*
 
@@ -33,7 +33,7 @@ Simultaneously, media coverage erupts with polarized narratives: on one side, pa
 
 ---
 
-## 3. MPT v5 Layer-by-Layer Analysis
+## 3. PCAVT v5 Layer-by-Layer Analysis
 
 ### 3.1 Four Filters of Pre-Screening
 
@@ -72,7 +72,7 @@ Simultaneously, media coverage erupts with polarized narratives: on one side, pa
   - C1-H (Human Agent): Human programmers, whose behavior is redefined as "managing AI" rather than "writing code"
   - C1-A (AI Agent): Claude Tag, which takes on the C2 behavior of "writing code"
 - **C1-A's attributes**: Social (none — it has no identity, class, or rights), Resource-based (GPU time), Capability-based (text generation, but no judgment)
-- **Key question**: Is C1-A a C1 or a B2 tool? MPT's answer — **this is a proposition requiring First Law testing**; it cannot be decided by B1 narratives.
+- **Key question**: Is C1-A a C1 or a B2 tool? PCAVT's answer — **this is a proposition requiring First Law testing**; it cannot be decided by B1 narratives.
 
 **C2 (Behavior Pattern)**:
 - C1-H's C2 is changing: from "writing logic" to "reviewing + deciding." This is an **emergent change in C2** — not designed, but naturally arising from practice.
@@ -109,7 +109,7 @@ Simultaneously, media coverage erupts with polarized narratives: on one side, pa
 
 ## 4. Comparison: Cognitive Increment Difference
 
-| Dimension | Conventional AI (Without MPT) | MPT v5 Analysis |
+| Dimension | Conventional AI (Without PCAVT) | PCAVT v5 Analysis |
 |-----------|------------------------------|-----------------|
 | **Treatment of "65%"** | Accepts as fact, then extrapolates | Presses: 65% of *what*? PR count or functional value? Is this number anchored in A2? |
 | **Use of "Coworker" Label** | Uses directly, implying human-machine parity | Detects B1 narrative inflation — "coworker" is a proposition requiring operational definition, not self-evident |
@@ -120,7 +120,7 @@ Simultaneously, media coverage erupts with polarized narratives: on one side, pa
 
 ---
 
-## 5. MPT Operational Recommendations
+## 5. PCAVT Operational Recommendations
 
 1. **For Anthropic**: Disclose Claude Tag's actual impact on A2 delta — product delivery velocity, bug rate, user satisfaction. PR count falls outside the First Law's testing scope.
 2. **For Developers**: Distinguish "Am I anxious about C1-H job loss?" (B1 narrative) from "Is my C2 shifting from writing code to reviewing code?" (testable C2 emergent change). The former is untestable; the latter is observable.

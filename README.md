@@ -1,8 +1,11 @@
-# Material-Praxis Theory · 唯物实践论
+# Physics-Causality-Anchored Verification Theory (PCAVT) · 唯物实践论
 
-> **?? On the Term "Material":** The term *"Material"* in Material-Praxis Theory does **not** denote ontological materialism ("the world is made of matter"). It refers to the **operational anchoring** of all cognitive claims in material practice — the **set A (物质基底 / A 层)** of the A-B-C framework. It explicitly rejects ontology as a valid cognitive enterprise. See the [Self-Referential Consistency Declaration](core/自指一致性声明.md) (Section 4).
+> **Renaming Note (2026-08-10):** Formerly *Material-Praxis Theory (MPT)*. The name was changed to **Physics-Causality-Anchored Verification Theory (PCAVT)** because *Material* and *Praxis* carry unexamined semantic load from Western philosophical traditions (ontological materialism; Aristotle-Marx praxis). The new name passes self-referential consistency review: every term is a physics/mathematics term with a defined operational meaning — *physics-causality-anchored* (Axiom 4: verification ends anchored in physical causality) and *verification* (the theory's practice = the execution of tests). The abbreviation MPT is deprecated; use **PCAVT**.
+
+
+> **?? On the Term "Material":** The term *"Material"* in Physics-Causality-Anchored Verification Theory does **not** denote ontological materialism ("the world is made of matter"). It refers to the **operational anchoring** of all cognitive claims in material practice — the **set A (物质基底 / A 层)** of the A-B-C framework. It explicitly rejects ontology as a valid cognitive enterprise. See the [Self-Referential Consistency Declaration](core/自指一致性声明.md) (Section 4).
 >
-> **关于「唯物」：** Material-Praxis Theory 中的 *"Material"* 不是本体论唯物主义（"世界本质是物质"），而是指所有认知主张必须*操作性地锚定于物质实践*——即 A-B-C 框架中的 **A 集（物质基底）**。本理论明确拒绝本体论。详见自指一致性声明第四节。
+> **关于「唯物」：** Physics-Causality-Anchored Verification Theory 中的 *"Material"* 不是本体论唯物主义（"世界本质是物质"），而是指所有认知主张必须*操作性地锚定于物质实践*——即 A-B-C 框架中的 **A 集（物质基底）**。本理论明确拒绝本体论。详见自指一致性声明第四节。
 
 ---
 

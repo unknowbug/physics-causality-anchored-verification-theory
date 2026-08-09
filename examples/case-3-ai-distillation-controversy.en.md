@@ -1,6 +1,6 @@
 ---
 title: Case 3 — AI Distillation Controversy: When "Technology" Becomes "Crime"
-short: MPT Case Study 3 — AI Distillation Controversy
+short: PCAVT Case Study 3 — AI Distillation Controversy
 domain: Technology / Geopolitics / Cognitive Warfare
 mpt_tools: B1 Alienation Detection, Incommensurability Warning, Three-Law Check, A-B-C Deep Analysis, Power-Responsibility Parity, Five-Warning Scan
 date: 2026-06-26
@@ -22,15 +22,15 @@ In the first half of 2026, a fierce cognitive conflict erupted in the AI industr
 
 ---
 
-## II. Conventional AI Analysis (Without MPT Framework)
+## II. Conventional AI Analysis (Without PCAVT Framework)
 
 > *"AI distillation is becoming a new battleground in US-China tech competition. Anthropic and OpenAI claim Chinese AI companies are stealing model capabilities through distillation — this is both an intellectual property issue and a national security concern. The White House's NSTM-4 memorandum shows the US government has brought distillation under policy regulation. However, distillation itself is common industry practice — even OpenAI has been exposed for distilling data from Google, and the Cursor incident reveals Silicon Valley's double standards. Musk's confession shows this is not just one company's problem but a systemic contradiction across the industry: when everyone does the same thing, why is only one side accused?"*
 
-**This analysis "looks rational" — but what does it expose?** Let us dissect it layer by layer using the MPT v6 framework.
+**This analysis "looks rational" — but what does it expose?** Let us dissect it layer by layer using the PCAVT v6 framework.
 
 ---
 
-## III. Layer-by-Layer Analysis Under the MPT v6 Framework
+## III. Layer-by-Layer Analysis Under the PCAVT v6 Framework
 
 ### 3.1 Quadruple Pre-Audit
 
@@ -92,7 +92,7 @@ In the first half of 2026, a fierce cognitive conflict erupted in the AI industr
 
 ### 3.7 In-Depth Incommensurability Analysis ⚠️
 
-This is the part of the case with the greatest MPT analytical value. Correspondence between the three B1 frameworks:
+This is the part of the case with the greatest PCAVT analytical value. Correspondence between the three B1 frameworks:
 
 | Dimension | Framework A: "Theft" (Anthropic/OpenAI) | Framework B: "Convention" (Chinese Companies/Musk) | Framework C: "Threat" (White House) |
 |------------|----------------------------------------|---------------------------------------------------|-------------------------------------|
@@ -119,7 +119,7 @@ This is the part of the case with the greatest MPT analytical value. Corresponde
 
 ## IV. Comparison: Difference in Cognitive Increment
 
-| Dimension | Conventional Analysis (Without MPT) | MPT v6 Analysis |
+| Dimension | Conventional Analysis (Without PCAVT) | PCAVT v6 Analysis |
 |-----------|-------------------------------------|-----------------|
 | **Definition of "distillation"** | Presupposes "distillation = controversial behavior" | Asks "What is distillation at A1/A2/B1/B2 respectively?" — discovers that at A1, distillation is identical to any normal API call |
 | **Treatment of accusations** | Accepts as fact, speculates on consequences | Asks the First Law: Can the claim be verified? Finds it unverifiable — labels it a provisional hypothesis |
@@ -130,7 +130,7 @@ This is the part of the case with the greatest MPT analytical value. Corresponde
 
 ---
 
-## V. MPT Operational Recommendations
+## V. PCAVT Operational Recommendations
 
 1. **For the industry (general)**: Any public discussion involving "distillation" must explicitly label the discussion level (A1/A2/B1/B2). When you say "distillation is problematic," first ask yourself: Are you talking about an A1 technical issue, a B2 compliance issue, or a B1 moral issue? The answers at each level are entirely different.
 
