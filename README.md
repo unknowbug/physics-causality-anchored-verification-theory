@@ -1,6 +1,10 @@
 # Physics-Causality-Anchored Verification Theory (PCAVT) · 唯物实践论
 
-> **Renaming Note (2026-08-10):** Formerly *Material-Praxis Theory (MPT)*. The name was changed to **Physics-Causality-Anchored Verification Theory (PCAVT)** because *Material* and *Praxis* carry unexamined semantic load from Western philosophical traditions (ontological materialism; Aristotle-Marx praxis). The new name passes self-referential consistency review: every term is a physics/mathematics term with a defined operational meaning — *physics-causality-anchored* (Axiom 4: verification ends anchored in physical causality) and *verification* (the theory's practice = the execution of tests). The abbreviation MPT is deprecated; use **PCAVT**.
+> **Renaming Note (2026-08-10):** The theory's previous name carried the terms *Material* and *Praxis*, which bring unexamined semantic load from Western philosophical traditions (ontological materialism; Aristotle-Marx praxis). The name was changed to **Physics-Causality-Anchored Verification Theory (PCAVT)**. The new name passes self-referential consistency review: every term is a physics/mathematics term with a defined operational meaning — *physics-causality-anchored* (Axiom 4: verification ends anchored in physical causality) and *verification* (the theory's practice = the execution of tests). Use **PCAVT**.
+>
+> **?? On the Term "Material":** The term *"Material"* in Physics-Causality-Anchored Verification Theory (PCAVT) does **not** denote ontological materialism ("the world is made of matter"). It refers to the **operational anchoring** of all cognitive claims in material practice — the **set A (物质基底 / A 层)** of the A-B-C framework. It explicitly rejects ontology as a valid cognitive enterprise. See the [Self-Referential Consistency Declaration](core/自指一致性声明.md) (Section 4).
+>
+> **关于「唯物」：** Physics-Causality-Anchored Verification Theory (PCAVT) 中的 *"Material"* 不是本体论唯物主义（"世界本质是物质"），而是指所有认知主张必须*操作性地锚定于物质实践*——即 A-B-C 框架中的 **A 集（物质基底）**。本理论明确拒绝本体论。详见自指一致性声明第四节。
 
 ---
 
@@ -25,6 +29,7 @@
 ├── core/
 │   ├── 第一律公理声明.md                              → 第一律（实践锚定剃刀）的公理性质证明
 │   ├── 自指一致性声明.md                              → 自指一致性条件与翻译不可能性的形式化证明 ★
+│   ├── 形式化的异化——滥用形式化的结构判据与方向性诊断.md  → 完备性禁令：禁止自我宣称完备 ★
 │   ├── 唯物实践论：实践锚定剃刀与系统性纠错的方法论 第五版.md  → 完整论著第五版（中文）
 │   ├── 唯物实践论_SYSTEM_PROMPT_v7.md                → 唯物实践论系统提示词 v7（中文）
 │   └── 宣言.md                                        → 三块基石之 Ψ（主体接口）宣言
@@ -34,6 +39,7 @@
 │   ├── README.md                                        → 论文索引与版本说明
 │   ├── 唯物实践论：人民论——社会主体的生成与立场收敛（第二次修改）.md  → 人民论（早期框架，不含A1/A2/第二律/第三律）
 │   ├── 一体两面的无效认知——唯物实践论的性别叙事批判.md        → 性别叙事概念批判（B1标签替代A2差值分析的诊断）
+│   ├── 基于互斥结构的概念级可检验性度量——面向大语言模型训练数据的质量筛选/  → LLM训练数据质量筛选（中英双语文档+脚本+图件）
 │   └── ...                                              → 其他应用分析（共17篇，索引见 papers/README.md）
 └── examples/
     ├── case-1-ai-compute-narrative.zh.md             → 案例1：AI算力叙事
@@ -53,7 +59,7 @@
 ## Quick Start · 快速开始
 
 1. **中文读者从系统提示词入手** → `core/唯物实践论_SYSTEM_PROMPT_v7.md`
-2. **然后读三份基石文件** → `core/第一律公理声明.md` + `core/自指一致性声明.md` + `core/宣言.md`
+2. **然后读三份基石文件与完备性禁令** → `core/第一律公理声明.md` + `core/自指一致性声明.md` + `core/宣言.md` + `core/形式化的异化——滥用形式化的结构判据与方向性诊断.md`
 3. **看案例（v7 推荐）** → `examples/case-3-*` 和 `case-4-*`
 4. **完整论著** → `core/唯物实践论：实践锚定剃刀与系统性纠错的方法论 第五版.md`
 5. **衍生论文** → `papers/README.md`（人民论、性别叙事批判等应用分析，注意框架版本差异）
@@ -172,7 +178,7 @@ This repository's English case studies (e.g., `case-4-anthropic-government-ban-b
 - ✅ 提供 A-B-C 框架用于范畴定位
 - ✅ 提供差值分析用于测量文明生命体征
 - ✅ 提供西哲史上未被注意的符号学诊断
-- ✅ 证明自身翻译的不可可能性——并开放一个 AI 辅助的替代访问路径
+- ✅ 证明自身翻译的不可能性——并开放一个 AI 辅助的替代访问路径
 
 ---
 
