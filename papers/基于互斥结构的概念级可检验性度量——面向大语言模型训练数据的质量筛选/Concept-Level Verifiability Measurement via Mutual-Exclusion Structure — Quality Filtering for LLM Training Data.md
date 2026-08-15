@@ -192,7 +192,7 @@ A large positive Sep means "formally has a verification scheme but behaviorally 
 
 **Calibration of μ* (observer effect):** the critical mutual-exclusion count M*∈[7,20] of criterion S7 is calibrated at the observation resolution of N=20 (criterion ζ: M*_ζ=20 resolved from ζ_eff = ζ_ext + αM ≥ ζ_c, i.e., 0.2 + 0.04·20 = 1.0). Small-sample concepts (N=3-6) naturally read low M (insufficient sampling density, corresponding to the observer effect of Definition 3.5) — the normalized density μ = M/C(N,2) must be used, whose critical interval is:
 
-$$\mu^* \in [7/C(20,2),\ 20/C(20,2)] = [0.037,\ 0.105]$$
+$$\mu^\ast \in [7/C(20,2),\ 20/C(20,2)] = [0.037,\ 0.105]$$
 
 **Empirical calibration statement (2026-08-14):** the μ* critical values are an empirical calibration on the N=20 observation surface (S7 simulation + ζ_eff analysis; α=0.04 is a model parameter, not a measured value); the small-sample (N=3-6) switch to normalized density μ is an engineering approximation, not strictly consistent with the absolute-M ζ criterion under small samples (when N≤6, C(N,2)≤15<20, the ζ criterion never reaches criticality) — when both criteria coexist, data testing prevails. This is a known gap of an empirical algorithm, not disguised as a mathematical derivation; consistent with empirical algorithms of the same class in large models: validity is confirmed by data testing (First Law), not by formal completeness.
 
@@ -200,17 +200,17 @@ $$\mu^* \in [7/C(20,2),\ 20/C(20,2)] = [0.037,\ 0.105]$$
 
 **Corpus mode (A_rate criterion):**
 
-$$D(C) = \begin{cases} \text{unanchored} & A_{rate}^{comment} < p^* \\ \text{decidable dispute} & A_{rate}^{comment} \geq p^* \land M \in [7,20] \\ \text{supercritical mutual exclusion} & A_{rate}^{comment} \geq p^* \land M > 20 \\ \text{healthy} & A_{rate}^{comment} \geq p^* \land M < 7 \end{cases}$$
+$$D(C) = \begin{cases} \text{unanchored} & A_{rate}^{comment} < p^\ast \cr \text{decidable dispute} & A_{rate}^{comment} \geq p^\ast \land M \in [7,20] \cr \text{supercritical mutual exclusion} & A_{rate}^{comment} \geq p^\ast \land M > 20 \cr \text{healthy} & A_{rate}^{comment} \geq p^\ast \land M < 7 \end{cases}$$
 
 where p* = 0.25 (S10 simulation calibration, rewritten edition 2.7 [3]). **Structurally, the decision is the two-state "unanchored / anchored"; the "anchored" side is divided by mutual-exclusion degree into "decidable dispute / healthy" (total three classes) + explicit confidence** (no "insufficient evidence" fourth state — "insufficient evidence" is carried by the confidence mechanism, not disguised as a concept state). **"False convergence" (r high ∧ align low; align defined in §4.5) is an additional diagnostic layer, superimposed on the unanchored decision (§6.3 Pseudo-History case), not changing the deterministic kernel of the main decision.** Each decision carries a confidence computed from the binomial standard error of A_rate and the distance to the threshold:
 
-$$SE = \sqrt{A(1-A)/N_{comment}},\quad z = |A - p^*|/SE$$
+$$SE = \sqrt{A(1-A)/N_{comment}},\quad z = |A - p^\ast|/SE$$
 
 z ≥ 2 high confidence; 1 ≤ z < 2 medium confidence; z < 1 low confidence ("insufficient evidence" annotation — more samples needed, not a third state).
 
 **Literature mode (μ+A combined criterion):** the literature mode has no comment-level samples, and using μ alone would misjudge "suspended" as "valid" (see the §6.3 Pseudo-History case) — the combined criterion:
 
-$$D_{lit}(C) = \begin{cases} \text{supercritical mutual exclusion} & \mu \geq \mu^*_{hi} \\ \text{critical} & \mu^*_{lo} \leq \mu < \mu^*_{hi} \\ \text{unanchored (suspended)} & \mu < \mu^*_{lo} \land A < p^* \\ \text{low mutual exclusion / valid} & \mu < \mu^*_{lo} \land A \geq p^* \end{cases}$$
+$$D_{lit}(C) = \begin{cases} \text{supercritical mutual exclusion} & \mu \geq \mu^\ast_{hi} \cr \text{critical} & \mu^\ast_{lo} \leq \mu < \mu^\ast_{hi} \cr \text{unanchored (suspended)} & \mu < \mu^\ast_{lo} \land A < p^\ast \cr \text{low mutual exclusion / valid} & \mu < \mu^\ast_{lo} \land A \geq p^\ast \end{cases}$$
 
 where A preferentially takes the comment-level A_rate (when it exists and >0), otherwise the variant-level A_rate_variant.
 
@@ -218,7 +218,7 @@ where A preferentially takes the comment-level A_rate (when it exists and >0), o
 
 **Definition 4.4 (Directional Alignment align)**: for each A-anchored variant, verify the objective outcome of the event its prediction targets (factual_outcome ∈ {occurred, not occurred, unknown}, based on public facts / academic consensus, no speculation):
 
-$$align = \frac{\#\{v : pred(v) \text{ consistent with } outcome(v)\}}{\#\{v : outcome(v) \neq \text{unknown}\}}$$
+$$align = \frac{|\{v : pred(v) \text{ consistent with } outcome(v)\}|}{|\{v : outcome(v) \neq \text{unknown}\}|}$$
 
 align is the S9 directional criterion: r high (consistent prediction direction) ∧ align low (contrary to facts) jointly trigger the **false convergence** decision (Pseudo-History case: r=1.0 ∧ align=0.0). align is a weakly robust quantity (depends on the LLM's judgment of world facts; different LLMs differ on "which variants have objective outcomes", see §8 ablation), used only as auxiliary diagnosis, not participating in the main decision.
 
