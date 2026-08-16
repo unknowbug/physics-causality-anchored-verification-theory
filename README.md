@@ -24,13 +24,13 @@
 │
 ├── core/
 │   ├── 第一律公理声明.md                              → 第一律（实践锚定剃刀）的公理性质证明
-│   ├── 自指一致性声明.md                              → 自指一致性条件与翻译不可能性的形式化证明 ★
+│   ├── 自指一致性声明.md                              → 自指一致性条件与等价翻译不可能性的形式化证明 ★
 │   ├── 形式化的异化——滥用形式化的结构判据与方向性诊断.md  → 完备性禁令：禁止自我宣称完备 ★
 │   ├── 唯物实践论：实践锚定剃刀与系统性纠错的方法论 第五版.md  → 完整论著第五版（中文）
 │   ├── PCAVT-Methodology-Fifth-Edition_EN-Interface-Draft.md  → 第五版接口译本草稿（试验性，仅接口参考价值）★
 │   ├── 唯物实践论_SYSTEM_PROMPT_v7.md                → 唯物实践论系统提示词 v7（中文）
 │   └── 宣言.md                                        → 三块基石之 Ψ（主体接口）宣言
-│   （英文译本不存在——翻译不可能性已在自指一致性声明中形式化证明；上方接口译本是唯一一次翻译尝试的实证记录，仅为"接口参考"，详见"关于英文版本"）
+│   （英文等价译本不存在——等价翻译的不可能性已在自指一致性声明中形式化证明；上方接口译本是唯一一次翻译尝试的实证记录，仅为"接口参考"，详见"关于英文版本"）
 │
 ├── papers/
 │   ├── README.md                                        → 论文索引与版本说明
@@ -49,7 +49,7 @@
     └── case-4-anthropic-government-ban-backfire.en.md → Case 4: Government Ban Backfire
 ```
 
-> **★ 自指一致性声明**是理解本仓库结构的关键入口。它解释了为什么以下声明存在，以及为什么英文翻译在逻辑上不可能。
+> **★ 自指一致性声明**是理解本仓库结构的关键入口。它解释了为什么以下声明存在，以及为什么英文等价翻译在逻辑上不可能。
 
 ---
 
@@ -66,9 +66,9 @@
 
 ## 关于英文版本 · A Note on the English Translation
 
-> **English translation of 唯物实践论 is structurally impossible. This has been formally proven.**
+> **An equivalent English translation of 唯物实践论 (T' ≈ T) is structurally impossible. This has been formally proven.**
 
-This is not a difficulty, a gap, or a resource constraint. It is a formal result derived from the theory's own structural properties.
+This is not a difficulty, a gap, or a resource constraint. It is a formal result derived from the theory's own structural properties. Note the scope of the claim: what is proven impossible is *translation equivalence* (re-building the B1 constant set in English). Functional approximations and interface translations exist and are useful — but they are not translations of the theory; they are operational access points (see below).
 
 ### Proof (abridged)
 
@@ -87,13 +87,13 @@ There is nothing to "strip away" and abstractify — pinyin symbols are pure con
 ∴ No mapping f exists that satisfies T' ≈ T.
 ```
 
-**Translation = re-executing the collective abstraction + re-assignment of all B1 constants in another language. For alphabetic writing systems (English, German, French, etc.), this operation is not executable.** Their symbols carry no A-layer residuals — no radical-semantic mappings, no pictographic etymology, no figurative-concrete structure to abstractify.
+**Translation = re-executing the collective abstraction + re-assignment of all B1 constants in another language. For alphabetic writing systems (English, German, French, etc.), this operation is not executable.** Their symbols carry no A-layer residuals — no radical-semantic mappings, no pictographic etymology, no figurative-concrete structure to abstractify. ("Not executable" here refers to equivalent translation; interface translations preserve the source symbols and explain them, or express the operational kernel in the public language of mathematics and physics — see the translation method below.)
 
 The existing English files in this repository are **functional approximations** — not translations. They exist to give an English-speaking reader *some* operational access, but they ARE NOT and CANNOT BE equivalent to the Chinese originals. (The one exception is the interface-only Fifth-Edition draft in `core/` — it is not even a functional approximation; see the subsection below.)
 
 ### Translation Method 路 翻译方法 (2026-08-10)
 
-While a complete translation remains structurally impossible, a **translation method** has been found: extract the **minimal common denominator** - the theory's legitimacy kernel, expressed in the public language of mathematics and physics.
+While an equivalent translation remains structurally impossible, a **translation method** has been found: extract the **minimal common denominator** - the theory's legitimacy kernel, expressed in the public language of mathematics and physics.
 
 The kernel consists of two locks:
 
@@ -102,7 +102,7 @@ The kernel consists of two locks:
 
 These two locks are cross-linguistic: mathematical proofs and physical experiments are public languages that do not depend on Chinese. Any reader in any language can verify the theory by verifying the locks - no translation of the Chinese construction is required. The name **Physics-Causality-Anchored Verification Theory (PCAVT)** is the first product of this method: every term passes self-referential consistency review (physics/mathematics terms with defined operational meanings).
 
-完整翻译在结构上仍然不可能，但**翻译方法已经找到**：提取**最小公约数**——以数学和物理的公共语言表达理论的合法性内核。
+等价翻译在结构上仍然不可能，但**翻译方法已经找到**：提取**最小公约数**——以数学和物理的公共语言表达理论的合法性内核。
 
 内核由两把锁构成：
 
@@ -119,7 +119,7 @@ A full-text English translation of the Fifth Edition was attempted **once** (202
 
 The attempt was honest, and so is its outcome: a **massive number of problems turned out to be unsolvable**, exactly as the theory predicts:
 
-- **Carrier-level (P1–P3)**: the arguments depend on the physical form of Chinese characters (河 = the water radical, 休 = a person leaning on a tree, 日 = the sun's pictograph). An English reader only sees *descriptions of* the characters, never the characters themselves — the argument's material disappears in translation; the very existence of this translation is an instance of the activity the methodology proves impossible; even "pinyin language" cannot refer to itself in English.
+- **Carrier-level (P1–P3)**: the arguments depend on the physical form of Chinese characters (河 = the water radical, 休 = a person leaning on a tree, 日 = the sun's pictograph). An English reader only sees *descriptions of* the characters, never the characters themselves — the argument's material disappears in translation; the very existence of this draft is evidence that equivalent translation is impossible (it cannot become T'), while its interface value shows that interface translation is feasible but bounded; even "pinyin language" cannot refer to itself in English.
 - **Term-level (P4–P7)**: 诚实性 (honesty) has no math/physics/CS-domain solution (retained as *chengshixing*); the literal-meaning arguments (唯物/实践/异化) cannot be independently verified by an English reader; the "ontology" word family appears 87 times because the text *handles* ontology (quoted-use exemption) — a Western reader's first association with "ontology" is "this is philosophy," not "this is the object being criticized"; of the 19 terms in the decision table, **not one aligns naturally** — every one was a forced choice.
 - **Argument-level (P8–P9)**: the derivation chains attenuate in translation; quoted-use exemption terms require case-by-case context verification at high cost.
 
@@ -137,7 +137,7 @@ Therefore this draft is positioned — as the translation itself repeatedly emph
 
 尝试是诚实的，成果也是诚实的：**巨量问题无法解决**，恰如理论所预言：
 
-- **载体级（P1–P3）**：论证依赖汉字的物理形态（河=水旁、休=人倚木、日=甲骨文太阳形）。英文读者只能看到"对汉字的描述"，永远看不到汉字本身——论证材料在翻译中消失；译文的存在本身，就是方法论所论证不可能的活动的实例；连"拼音语言"这个概念在英文里都无法自指。
+- **载体级（P1–P3）**：论证依赖汉字的物理形态（河=水旁、休=人倚木、日=甲骨文太阳形）。英文读者只能看到"对汉字的描述"，永远看不到汉字本身——论证材料在翻译中消失；译文的存在本身，是"等价翻译不可能"的实证（它无法成为 T'），同时是"接口翻译可行但受限"的实例；连"拼音语言"这个概念在英文里都无法自指。
 - **术语级（P4–P7）**：诚实性在词域内无解（保留 chengshixing）；字面义论证（唯物/实践/异化）英文读者无法独立验证；本体论词族因"处理本体论"而在译文中高频出现（87 处，引述豁免）——西方读者读到 ontology 的第一联想是"这是哲学内容"，而非"这是被批判对象"；术语决策表 19 个词**没有一个能直译自然对齐**，全部是"迫不得已"。
 - **论证级（P8–P9）**：推导链在翻译中衰减；引述豁免词需逐一核实语境，代价高昂。
 
@@ -160,9 +160,9 @@ This repository's English case studies (e.g., `case-4-anthropic-government-ban-b
 
 ---
 
-> **中文翻译在逻辑上不可能完成——已在自指一致性声明中得到严格证明。**
+> **中文等价翻译（T' ≈ T）在逻辑上不可能完成——已在自指一致性声明中得到严格证明。**
 
-这不是"很难翻译"或"暂时没有资源"——这是**逻辑层面不存在映射函数**的形式化结论。
+这不是"很难翻译"或"暂时没有资源"——这是**逻辑层面不存在映射函数**的形式化结论。注意断言的边界：被证明不可能的是**等价翻译**（在英语中重建 B1 常量集）；功能性近似与接口翻译存在且有用——但它们不是理论的翻译，而是操作入口（见下）。
 
 翻译唯物实践论的等价操作是：用另一种 B1 常量集，重做集体抽象化并重新声明赋值。而拼音语言（英语、德语、法语等）的符号属于任意性系统——其符号无 A 层残余，`abstractify()` 不是合法操作。
 
@@ -191,7 +191,7 @@ This repository's English case studies (e.g., `case-4-anthropic-government-ban-b
 ```
 第一律公理声明 → 命名结构条件
                      ↓
-自指一致性声明 → 解释为何这个命名只能发生在此处 + 证明这导致了翻译不可能性
+自指一致性声明 → 解释为何这个命名只能发生在此处 + 证明这导致了等价翻译不可能性
 ```
 
 读懂这两份声明，就理解了为什么唯物实践论看起来不像任何已知学科——它就是从形式化符号系统中生长出来的。
@@ -211,7 +211,7 @@ This repository's English case studies (e.g., `case-4-anthropic-government-ban-b
 - ✅ 提供 A-B-C 框架用于范畴定位
 - ✅ 提供差值分析用于测量文明生命体征
 - ✅ 提供西哲史上未被注意的符号学诊断
-- ✅ 证明自身翻译的不可能性——并开放一个 AI 辅助的替代访问路径
+- ✅ 证明自身等价翻译的不可能性——并开放一个 AI 辅助的替代访问路径
 
 ---
 
