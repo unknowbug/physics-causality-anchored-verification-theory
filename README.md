@@ -27,9 +27,10 @@
 │   ├── 自指一致性声明.md                              → 自指一致性条件与翻译不可能性的形式化证明 ★
 │   ├── 形式化的异化——滥用形式化的结构判据与方向性诊断.md  → 完备性禁令：禁止自我宣称完备 ★
 │   ├── 唯物实践论：实践锚定剃刀与系统性纠错的方法论 第五版.md  → 完整论著第五版（中文）
+│   ├── PCAVT-Methodology-Fifth-Edition_EN-Interface-Draft.md  → 第五版接口译本草稿（试验性，仅接口参考价值）★
 │   ├── 唯物实践论_SYSTEM_PROMPT_v7.md                → 唯物实践论系统提示词 v7（中文）
 │   └── 宣言.md                                        → 三块基石之 Ψ（主体接口）宣言
-│   （英文版本不存在——翻译不可能性已在自指一致性声明中形式化证明）
+│   （英文译本不存在——翻译不可能性已在自指一致性声明中形式化证明；上方接口译本是唯一一次翻译尝试的实证记录，仅为"接口参考"，详见"关于英文版本"）
 │
 ├── papers/
 │   ├── README.md                                        → 论文索引与版本说明
@@ -88,7 +89,7 @@ There is nothing to "strip away" and abstractify — pinyin symbols are pure con
 
 **Translation = re-executing the collective abstraction + re-assignment of all B1 constants in another language. For alphabetic writing systems (English, German, French, etc.), this operation is not executable.** Their symbols carry no A-layer residuals — no radical-semantic mappings, no pictographic etymology, no figurative-concrete structure to abstractify.
 
-The existing English files in this repository are **functional approximations** — not translations. They exist to give an English-speaking reader *some* operational access, but they ARE NOT and CANNOT BE equivalent to the Chinese originals.
+The existing English files in this repository are **functional approximations** — not translations. They exist to give an English-speaking reader *some* operational access, but they ARE NOT and CANNOT BE equivalent to the Chinese originals. (The one exception is the interface-only Fifth-Edition draft in `core/` — it is not even a functional approximation; see the subsection below.)
 
 ### Translation Method 路 翻译方法 (2026-08-10)
 
@@ -110,6 +111,42 @@ These two locks are cross-linguistic: mathematical proofs and physical experimen
 
 两把锁跨语言：数学证明与物理实验是公共语言，不依赖中文。任何语言的读者通过验证两把锁即可验证理论——无需翻译中文构建部分。**Physics-Causality-Anchored Verification Theory (PCAVT)** 是该方法的首个成果：名字的每个词都通过自指一致性审查（具有操作定义的物理/数学术语）。
 
+### One Translation Attempt (2026-08-16): an Interface-Only Draft
+
+A full-text English translation of the Fifth Edition was attempted **once** (2026-08-16), under the established translation methodology (math/physics/CS vocabulary domain, minimal-common-denominator alignment, self-reference-consistency review). The result:
+
+> **`core/PCAVT-Methodology-Fifth-Edition_EN-Interface-Draft.md`** — an experimental interface-only draft.
+
+The attempt was honest, and so is its outcome: a **massive number of problems turned out to be unsolvable**, exactly as the theory predicts:
+
+- **Carrier-level (P1–P3)**: the arguments depend on the physical form of Chinese characters (河 = the water radical, 休 = a person leaning on a tree, 日 = the sun's pictograph). An English reader only sees *descriptions of* the characters, never the characters themselves — the argument's material disappears in translation; the very existence of this translation is an instance of the activity the methodology proves impossible; even "pinyin language" cannot refer to itself in English.
+- **Term-level (P4–P7)**: 诚实性 (honesty) has no math/physics/CS-domain solution (retained as *chengshixing*); the literal-meaning arguments (唯物/实践/异化) cannot be independently verified by an English reader; the "ontology" word family appears 87 times because the text *handles* ontology (quoted-use exemption) — a Western reader's first association with "ontology" is "this is philosophy," not "this is the object being criticized"; of the 19 terms in the decision table, **not one aligns naturally** — every one was a forced choice.
+- **Argument-level (P8–P9)**: the derivation chains attenuate in translation; quoted-use exemption terms require case-by-case context verification at high cost.
+
+Therefore this draft is positioned — as the translation itself repeatedly emphasizes — as:
+
+1. **A low-value translation with interface-reference value only** — it is not a translation, but a recorded record of a failed reversibility test;
+2. **Living proof of the theory's "translation difficulty"** — stated *without derogation*: the difficulty is a structural property proven in 自指一致性声明 §6 (the mapping ∄f does not exist), not a failure of any translator. This attempt made every structural problem visible — exactly as the theory predicted;
+3. The **Chinese original remains the sole authoritative source**.
+
+### 一次翻译尝试（2026-08-16）：接口参考译本 —— 低价值、诚实的活证明
+
+2026-08-16 对方法论第五版进行了一次**全文英文翻译尝试**（截至目前唯一一次），使用了已建立的翻译方法论（数学/物理/计算机科学词域限制、最小公约词性对齐、自指一致性审查）。成果：
+
+> **`core/PCAVT-Methodology-Fifth-Edition_EN-Interface-Draft.md`** —— 试验性接口译本草稿。
+
+尝试是诚实的，成果也是诚实的：**巨量问题无法解决**，恰如理论所预言：
+
+- **载体级（P1–P3）**：论证依赖汉字的物理形态（河=水旁、休=人倚木、日=甲骨文太阳形）。英文读者只能看到"对汉字的描述"，永远看不到汉字本身——论证材料在翻译中消失；译文的存在本身，就是方法论所论证不可能的活动的实例；连"拼音语言"这个概念在英文里都无法自指。
+- **术语级（P4–P7）**：诚实性在词域内无解（保留 chengshixing）；字面义论证（唯物/实践/异化）英文读者无法独立验证；本体论词族因"处理本体论"而在译文中高频出现（87 处，引述豁免）——西方读者读到 ontology 的第一联想是"这是哲学内容"，而非"这是被批判对象"；术语决策表 19 个词**没有一个能直译自然对齐**，全部是"迫不得已"。
+- **论证级（P8–P9）**：推导链在翻译中衰减；引述豁免词需逐一核实语境，代价高昂。
+
+因此本译本的定位（与译文开头反复强调的一致）是：
+
+1. **仅具"接口参考价值"的低价值译本**——它不是翻译，而是一次"可逆性检验失败"的实证记录；
+2. **理论"翻译困难"的活证明**——且此表述**不含贬义**：翻译困难是自指一致性声明第六节已证明的结构性属性（映射 ∄f 不存在），不是任何译者的失败。这次尝试让所有结构性问题全部显形，恰如理论所预言；
+3. **中文原文始终是唯一事实源**。
+
 
 ### Recommendation for English Readers
 
@@ -129,7 +166,7 @@ This repository's English case studies (e.g., `case-4-anthropic-government-ban-b
 
 翻译唯物实践论的等价操作是：用另一种 B1 常量集，重做集体抽象化并重新声明赋值。而拼音语言（英语、德语、法语等）的符号属于任意性系统——其符号无 A 层残余，`abstractify()` 不是合法操作。
 
-仓库中现有的英文文件是**功能性近似**，而非翻译。它们给英文读者提供一定的操作入口，但**不等于也不等效于**中文原版。
+仓库中现有的英文文件是**功能性近似**，而非翻译。它们给英文读者提供一定的操作入口，但**不等于也不等效于**中文原版。（唯一的例外是 `core/` 下的第五版接口译本草稿——它连功能性近似都算不上，详见下方小节。）
 
 ### 对英文读者的建议
 
