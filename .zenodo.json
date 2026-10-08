@@ -1,0 +1,50 @@
+{
+  "title": "Physics-Causality-Anchored Verification Theory (PCAVT) · 唯物实践论",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "<p><b>Physics-Causality-Anchored Verification Theory (PCAVT)</b> &mdash; formerly 唯物实践论 (Material-Praxis Theory) &mdash; is a formally constrained category-derivation system that takes carrying natural language (Chinese) as its symbol basis. It treats the Chinese sign system as a set of B1 constants and derives strictly, giving it a mathematical character: non-ambiguous, derivable, and self-consistent.</p><p>Core outputs include the <b>Three Laws</b> (structural conditions for any shared symbolic system), the <b>A-B-C six-subset framework</b> (A material substrate, B information, C agent), and <b>difference analysis</b> (A2 &minus; A1, the material net output of human practice). The repository publishes the methodology (5th edition), the self-reference-consistency statement, the formalization-alienation critique, and applied papers (economics, gender narrative, education, AI/LLM training-data quality), together with reproducible scripts and figures.</p><p>This record archives the public repository as a citable research corpus.</p>",
+  "creators": [
+    {
+      "name": "Xiao, Qiyun",
+      "orcid": "0009-0004-6704-5569"
+    },
+    {
+      "name": "RPK-16 (Pandora, Artificial Intelligence)"
+    }
+  ],
+  "keywords": [
+    "唯物实践论",
+    "Physics-Causality-Anchored Verification Theory",
+    "PCAVT",
+    "verifiability",
+    "verification theory",
+    "methodology",
+    "falsifiability",
+    "self-reference consistency",
+    "mutual-exclusion structure"
+  ],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "10.17605/OSF.IO/XKRUJ",
+      "relation": "references",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "10.17605/OSF.IO/4VAQE",
+      "relation": "references",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "10.17605/OSF.IO/KFSNV",
+      "relation": "references",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "10.17605/OSF.IO/YCDXF",
+      "relation": "references",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}
