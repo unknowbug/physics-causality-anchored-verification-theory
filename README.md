@@ -1,5 +1,7 @@
 # Physics-Causality-Anchored Verification Theory (PCAVT) · 唯物实践论
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23244506.svg)](https://doi.org/10.5281/zenodo.23244506)
+
 > **Renaming Note (2026-08-10):** The theory's previous name carried the terms *Material* and *Praxis*, which bring unexamined semantic load from Western philosophical traditions (ontological materialism; Aristotle-Marx praxis). The name was changed to **Physics-Causality-Anchored Verification Theory (PCAVT)**. The new name passes self-referential consistency review: every term is a physics/mathematics term with a defined operational meaning — *physics-causality-anchored* (Axiom 4: verification ends anchored in physical causality) and *verification* (the theory's practice = the execution of tests). Use **PCAVT**.
 
 ---
