@@ -1,4 +1,6 @@
 # physics-causality-anchored-verification-theory (PCAVT): The Practice-Anchored Razor and the Methodology of Systematic Error Correction — Fifth Edition
+
+> **已归档（2026-11-07）** ｜ 第五版的接口译本草稿，随第五版一并归档。**它不是翻译，也不是功能性近似**，仅作"等价翻译不可能"的实证记录。说明见 `core/旧版/README.md`。
 ## English Interface Draft (Pilot: Prologue §0.1–0.3)
 
 > **⚠️ 接口译本特别标注（INTERFACE-TRANSLATION NOTICE，2026-08-16）**

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 先读贡献规则 · Read CONTRIBUTING first
+    url: https://github.com/xiao19881026/唯物实践论/blob/main/CONTRIBUTING.md
+    about: 本仓库接受证伪、不接受改判。提交前请确认你的输入属于哪一类。
+  - name: 发布规则 · Publication rules
+    url: https://github.com/xiao19881026/唯物实践论/blob/main/PUBLICATION.md
+    about: 了解本仓库发布什么、不发布什么、版本锚如何校验。
