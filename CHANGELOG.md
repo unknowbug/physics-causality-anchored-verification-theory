@@ -74,6 +74,18 @@
 - **未结案**。源库 `60_问题库/` 11 条中 10 条待裁——本次发布不以"源库已无缺陷"为前提，而以下述声明为前提：**已发布内容不落在任何未结案缺陷的影响范围内**（论证见 `PUBLICATION.md` 第四节）。
 - **未改源库**。本次只写本仓库，源库零改动。
 
+### 八、仓库位置变更（同日）
+
+| 项目 | 变更前 | 变更后 |
+|---|---|---|
+| 路径 | `E:\Users\NDark\华为云盘\Note\Default\唯物实践论开源`（华为云盘同步目录内） | `E:\work\唯物实践论开源`（本地非同步目录） |
+| 与源库关系 | 邻目录（`..\唯物实践论开源\`） | **不再相邻**；源库中引用本仓库处一律改用绝对路径 |
+| git 可用性 | `dubious ownership`（`.git` owner 为 SYSTEM）＋ 占位符锁定 | 通过 `git config --global --add safe.directory` 放行；占位符问题消失 |
+
+**原因：** 云盘同步目录会把 `.git` 内的临时文件（`COMMIT_EDITMSG`、`FETCH_HEAD`）替换为云端占位文件，使 `git commit` / `git fetch` 报 `Permission denied`。本次发布过程中该故障出现 4 次，每次需手工删除占位文件后重试。迁出后 `git status` / `log` / `commit` / `push` 全部正常。
+
+**代价：** 本仓库不再由云盘备份。当前唯一完整副本为 GitHub 远端（`unknowbug/physics-causality-anchored-verification-theory`），本地无第二备份。
+
 **状态：待确认。**
 
 ---
